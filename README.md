@@ -17,7 +17,7 @@ Then Left click main.exe
 </p>
 
 <p align="center">
-🎥 <a href="https://youtube.com/shorts/rnisgpiasqk" target="blank">Video Showcase on YouTube</a>
+🎥 <a href="https://youtube.com/shorts/rnisgpiasqk" target=".blank">Video Showcase on YouTube</a>
 </p>
 
 <br>
