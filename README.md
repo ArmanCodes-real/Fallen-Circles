@@ -17,11 +17,12 @@ Then Left click main.exe
 </p>
 
 <p align="center">
-🎥 <a href="https://youtube.com/shorts/rnisgpiasqk" target=".blank">Video Showcase on YouTube</a>
+🎥 <a href="https://youtube.com/shorts/rnisgpiasqk" target="_blank">Video Showcase on YouTube</a>
 </p>
 
 <br>
 <br>
 <p align="center">
-| 📺 <a href="https://www.youtube.com/@ArmanCoding/">My YouTube Channel</a>
+|   <img src="0329-Cover.jpg" alt="" width="800">
+| 📺 <a href="https://www.youtube.com/@ArmanCoding/" target="_blank">My YouTube Channel</a>
 </p>
