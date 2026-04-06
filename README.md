@@ -23,6 +23,9 @@ Then Left click main.exe
 <br>
 <br>
 <p align="center">
-|   <img src="0329-Cover.jpg" alt="" width="800">
+<img src="0329-Cover.jpg" alt="" width="800">
+</p>
+<br>
+<p align="center">
 | 📺 <a href="https://www.youtube.com/@ArmanCoding/" target="_blank">My YouTube Channel</a>
 </p>
